@@ -2,7 +2,7 @@
 📄 Know about my experiences https://www.linkedin.com/in/prathamsavjani<br>👨‍💻 All of my projects are available at https://prathamsavjani.github.io/profile/<br>💬 I talk about ASP.Net Core, Javascript, Jquery, SQL, ReactJS<br>📫 How to reach me prathamsavjani99@gmail.com<br>⚡ Fun fact If you ever spot what seems like a "bug" in my code, don't fret! It's just one of those "work-in-progress features" in disguise, or perhaps, it's the next big thing the world isn't ready for yet! 😄💻 #CodeWithPersonality 🛠️🚀
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prathamsavjani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratham.savjani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamsavjani) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pratham_savjani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19941652) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prathamsavjani) 
 
 # 💻 Tech Stack:
