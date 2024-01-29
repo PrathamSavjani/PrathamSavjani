@@ -17,7 +17,9 @@
 
 # 📈 My Leetcode Stats
 <div>
+  
   [![Leetcode Profile](https://leetcard.jacoblin.cool/prathamsavjani?hide=ranking)](https://leetcode.com/prathamsavjani/)
+  
 </div>
 
 # 📊 GitHub Stats:
