@@ -21,6 +21,7 @@
 
 # 📈 Languages Used
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsavjani&show_icons=true&locale=en&layout=compact" alt="prathamsavjani" /></p>
+
 # 📈 My Leetcode Stats
 <div>
 
@@ -28,7 +29,7 @@
   
 </div>
 
-### 👨🏻‍💻 Programing Languages :
+### 👨🏻‍💻 Programming Languages :
 
 <div align="center">
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="50"></code>
