@@ -19,9 +19,10 @@
 <a href="https://www.leetcode.com/prathamsavjani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamsavjani" height="30" width="40" /></a>
 </p>
 
+# 📈 Languages Used
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsavjani&show_icons=true&locale=en&layout=compact" alt="prathamsavjani" /></p>
 # 📈 My Leetcode Stats
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamsavjani&show_icons=true&locale=en&layout=compact" alt="prathamsavjani" /></p>
 
   [![Leetcode Profile](https://leetcard.jacoblin.cool/prathamsavjani?hide=ranking)](https://leetcode.com/prathamsavjani/)
   
