@@ -1,5 +1,5 @@
 # 💫 About Me:
-📄 Know about my experiences https://www.linkedin.com/in/prathamsavjani<br>👨‍💻 All of my projects are available at https://prathamsavjani.github.io/profile/<br>💬 I talk about ASP.Net Core, Javascript, Jquery, SQL, ReactJS<br>📫 How to reach me prathamsavjani99@gmail.com<br>⚡ Fun fact If you ever spot what seems like a "bug" in my code, don't fret! It's just one of those "work-in-progress features" in disguise, or perhaps, it's the next big thing the world isn't ready for yet! 😄💻 #CodeWithPersonality 🛠️🚀
+**📄 Know about my experiences : https://www.linkedin.com/in/prathamsavjani<br>👨‍💻 All of my projects are available at : https://prathamsavjani.github.io/profile/<br>💬 I talk about ASP.Net Core, Javascript, Jquery, SQL, ReactJS<br>📫 Reach me through : prathamsavjani99@gmail.com<br>⚡ Fun fact : If you ever spot what seems like a "bug" in my code, don't fret! It's just one of those "work-in-progress features" in disguise, or perhaps, it's the next big thing the world isn't ready for yet! 😄💻 #CodeWithPersonality 🛠️🚀**
 
 
 # 🌐 Socials:
